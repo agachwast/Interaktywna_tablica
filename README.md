@@ -1,2 +1,12 @@
-# Interaktywna_tablica
-Praca z baza danych, analiza danych, interfejsem uzytkownika
+Projekt składa się z dwóch segmentów:
+
+1. Analiza danych
+Praca z bazą danych napisaną w programie Excel,
+Sortowanie danych,
+Wyszukiwanie pustych wartości,
+Praca z biblioteką Pandas i Numpy
+
+3. Interfejs użytkownika
+Umożliwienie użytkownikowi edytowanie danych,
+Implementacja błędów,
+Stworzenie przycisków, scrollbaru, okien
